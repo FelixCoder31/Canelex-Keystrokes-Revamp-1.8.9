@@ -1,23 +1,17 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+<img src="https://wsrv.nl/?url=https%3A%2F%2Fpolyfrost.org%2Fimg%2Fcompact_vector.svg&amp;n=-1&amp;w=1000" width="56"> <img src="https://img.shields.io/github/v/release/Polyfrost/Canelex-KeyStrokes-Revamp.svg?style=for-the-badge&amp;color=1452cc&amp;label=release" alt="Dev Workflow Status">
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+## A remake of the original Keystrokes mod by Canelex.
+
+### Allows customizing:
+
+    Scale
+    Mouse Keystrokes
+    Jump Keystrokes
+    Arrow Keystrokes
+    Pressed / Unpressed Background Color
+    Pressed / Unpressed Text Color
+    Fading Time
+    Shadow
+    Show in Chat
+    Show in GUIs
+    Show in F3
